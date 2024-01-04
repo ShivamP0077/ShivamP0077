@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Parmar</h1>
 <h3 align="center">A passionate about technologies</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamp0077" alt="shivamp0077" /></a> </p>
+
 
 - 🌱 I’m currently learning **Javascript**
 
