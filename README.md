@@ -6,7 +6,7 @@
 
 ### Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-parmar007) 
+- [![Shivam-Parmar007](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-parmar007) 
 - 🐦 [Follow](https://github.com/ShivamP0077/)
 
 
