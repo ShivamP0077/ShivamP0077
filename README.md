@@ -1,16 +1,14 @@
-## Hi, I'm Shivam Parmar! 🐱
-
-### About Me
-
-- I am a Student At The Maharaja Sayajirao University 🏛️
-
-### Connect with Me
-
-- [![Shivam-Parmar007](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-parmar007) 
-- 🐦 [Follow](https://github.com/ShivamP0077/)
+<h2> Hi, I'm Shivam Parmar! <img src="https://media.giphy.com/media/Tqrk0x0Hpzgdjz9t1z/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=790b7611c1lnlu1sapp65da6ck0oj6317gsuretiwrypg3lo&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
+<p><em>Student at <a href="https://msubaroda.ac.in/">The Maharaja Sayajirao University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 
-### A little more about me...
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://linkedin.com/in/shivam-parmar007)](https://linkedin.com/in/shivam-parmar007)
+[![GitHub shivam](https://img.shields.io/github/followers/ShivamP0077?label=follow&style=social)](https://github.com/shivamP0077)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const shivam = {
@@ -22,3 +20,8 @@ const shivam = {
     Web Team Member: "Code Vimersh",
   },
 }
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
