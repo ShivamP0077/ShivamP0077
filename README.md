@@ -1,5 +1,3 @@
-# Shivam Parmar
-
 ## Hi, I'm Shivam Parmar! 🐱
 
 ### About Me
