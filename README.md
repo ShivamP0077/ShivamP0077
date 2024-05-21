@@ -9,7 +9,7 @@
 ### Connect with Me
 
 - 💼 [Shivam-Parmar](https://www.linkedin.com/in/shivam-parmar007/)
-- 🐦 [Follow](https://github.com/ShivamP0077/ShivamP0077/)
+- 🐦 [Follow](https://github.com/ShivamP0077/)
 
 
 ### A little more about me...
