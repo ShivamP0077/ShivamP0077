@@ -1,5 +1,6 @@
 <h2> Hi, I'm Shivam Parmar! <img src="https://media.giphy.com/media/Tqrk0x0Hpzgdjz9t1z/giphy.gif" width="50"></h2>
-<img align='right' src="https://banner2.cleanpng.com/20240321/xf/transparent-glasses-bearded-man-in-glasses-smiles-with-laptop65fd519a2b2606.60963663.webp" width="230">
+<img align='right' src="https://banner2.cleanpng.com/2024![Uploading transparent-glasses-bearded-man-in-glasses-smiles-with-laptop65fd519a2b2606.60963663.png…]()
+0321/xf/transparent-glasses-bearded-man-in-glasses-smiles-with-laptop65fd519a2b2606.60963663.webp" width="230">
 <p><em>Student at <a href="https://msubaroda.ac.in/">The Maharaja Sayajirao University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
