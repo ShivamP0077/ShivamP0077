@@ -1,5 +1,5 @@
 <h2> Hi, I'm Shivam Parmar! <img src="https://media.giphy.com/media/Tqrk0x0Hpzgdjz9t1z/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=790b7611c1lnlu1sapp65da6ck0oj6317gsuretiwrypg3lo&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/PWlsJVm3mhwQhD7imf" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/iamrecband-error-recband-blockaro-PWlsJVm3mhwQhD7imf">via GIPHY</a></p>
 <p><em>Student at <a href="https://msubaroda.ac.in/">The Maharaja Sayajirao University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
