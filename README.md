@@ -3,7 +3,7 @@
 </em></p>
 
 
-[![Linkedin: shivam](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://linkedin.com/in/shivam-parmar007)](https://linkedin.com/in/shivam-parmar007)
+[![Linkedin: shivam](https://img.shields.io/badge/-shivam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://linkedin.com/in/shivam-parmar007)](https://linkedin.com/in/shivam-parmar007)
 [![GitHub shivam](https://img.shields.io/github/followers/ShivamP0077?label=follow&style=social)](https://github.com/shivamP0077)
 
 
