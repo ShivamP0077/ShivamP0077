@@ -15,7 +15,7 @@
 ### A little more about me...
 
 ```javascript
-const thai = {
+const shivam = {
   pronouns: "he" | "him",
   code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'C++', 'Python', 'Java'],
   tools: ['React', 'Redux', 'Node', 'Storybook', 'Styled-Components', 'Jest', 'Docker'],
